@@ -1,0 +1,18 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.banner img{
+    text-align: center;
+    width: 100%;
+}
+.circles {
+   background-color: gray;
+   width: 100%;
+}
+.circle_image {
+    border-radius: 50%;
+    border: 15px solid #444;
+    margin: 50px 25px;
+}
